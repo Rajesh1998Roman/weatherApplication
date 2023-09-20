@@ -1,0 +1,21 @@
+.result{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: grid;
+    place-items: center;
+}
+.result_box{
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 10px;
+    box-shadow: 0 5px 6px  rgba(0, 0, 0, 0.12), 0 2px 3px  rgba(0, 0, 0, 0.24);
+    padding-top: 50px;
+    padding-bottom: 50p x;
+   
+}
+.result_box > p{
+     margin-top: 3px;
+}
